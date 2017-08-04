@@ -18,7 +18,7 @@ ol, ul {
 }
 
 .square {
-    background: #fff;
+    background-color: darkgrey;
     border: 1px solid #999;
     float: left;
     font-size: 24px;
@@ -53,4 +53,7 @@ ol, ul {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
+}
+#main {
+    text-align:center;
 }
